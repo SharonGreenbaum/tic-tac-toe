@@ -96,7 +96,7 @@ int main() {
     cout << " --- --- ---" << endl;
 
     int board[9] = { 0 };
-    int moves = 0, k;
+    int moves = 0;
  
 
     while (moves < 9) {
