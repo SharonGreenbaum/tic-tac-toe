@@ -97,6 +97,7 @@ int main() {
 
     int board[9] = { 0 };
     int moves = 0;
+    int k=0;
  
 
     while (moves < 9) {
